@@ -1,0 +1,5 @@
+asgiref
+Django
+pycryptodome
+pytz
+sqlparse
